@@ -1,0 +1,29 @@
+@import "header.css";
+@import "welcome.css";
+@import "projects.css";
+@import "contacts.css";
+@import "footer.css";
+
+
+
+
+html{
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+a,
+a:visited,
+a:hover {
+    color: white;
+}
+
+h1 {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 56px;
+}
+
